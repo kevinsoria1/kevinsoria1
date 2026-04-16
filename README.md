@@ -39,7 +39,7 @@ API REST robusta para la gestión y relación de entidades.
 ---
 
 ### 📊 Estadísticas de GitHub
-![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=kevinsoria1&show_icons=true&theme=radical)
+![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=kevinsoria1&show_icons=true&theme=radical&hide_rank=true)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsoria1&layout=compact&theme=radical)
 
 ---
