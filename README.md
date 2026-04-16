@@ -4,7 +4,7 @@
 
 Soy un desarrollador apasionado por crear arquitecturas de software modulares, escalables y eficientes. Mi enfoque principal es el **Backend con NestJS**, pero también tengo experiencia sólida en **Desarrollo Móvil Nativo (Kotlin)** y **Diseño UI/UX con Figma**.
 
-[cite_start]Me gusta liderar equipos técnicos, aportando una visión que une el diseño funcional con una infraestructura robusta.
+Me gusta liderar equipos técnicos, aportando una visión que une el diseño funcional con una infraestructura robusta.
 
 ---
 
