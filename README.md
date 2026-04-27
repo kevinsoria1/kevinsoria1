@@ -47,5 +47,5 @@ API REST robusta para la gestión y relación de entidades.
 ### 📫 Conecta conmigo:
 - **Residencia:** Torrejón de Ardoz, Madrid.
 - **Email:** [k.soria.olivar@gmail.com](mailto:k.soria.olivar@gmail.com).
-- **LinkedIn:** www.linkedin.com/in/kevin-soria-olivar-1b9107397
+- **LinkedIn:** www.linkedin.com/in/kevin-soria-dev
 
