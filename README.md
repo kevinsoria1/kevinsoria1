@@ -5,7 +5,7 @@
 <p align="center">
   Soy un desarrollador apasionado por crear arquitecturas de software escalables y eficientes. Mi filosofía de trabajo se centra en diseñar sistemas altamente mantenibles agrupando componentes estrechamente relacionados —como controladores que exponen rutas y proveedores que manejan la lógica de negocio— en bloques cohesivos y completamente encapsulados. 
   <br><br>
-  Me gusta liderar equipos técnicos, aportando una visión que une el diseño funcional con una infraestructura robusta, aplicando esta mentalidad modular tanto en Node.js como en entornos empresariales con Java.
+  Me gusta liderar equipos técnicos, aportando una visión que une el diseño funcional con una infraestructura robusta, aplicando esta mentalidad modular tanto en Node.js como en entornos empresariales con Java y ecosistemas frontend modernos.
 </p>
 
 ---
@@ -24,6 +24,7 @@
 
 <p align="center">
   <strong>Mobile, Frontend & Diseño</strong><br>
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
